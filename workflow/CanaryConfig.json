@@ -1,0 +1,14 @@
+{
+    "DeploymentId": "2",
+    "DeploymentType": "CanaryTest",
+    "DeploymentParam": {
+      "Step": 0.2,
+      "interval": 5
+    },
+    "ModelInfo":
+    {
+       "ModelContainerName": "container2"
+    }
+}
+
+
